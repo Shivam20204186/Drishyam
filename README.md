@@ -24,9 +24,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 --- 
 ## Contact
 
-Sumit Dey- [code.sumax@gmail.com](mailto:code.sumax@gmail.com)
+Shivam Kumar Sharma - [shivamkumarsharma1422@gmail.com](mailto:shivamkumarsharma1422@gmail.com)
 
-Youtube Channel: [https://www.youtube.com/c/BackbenchCoder](https://www.youtube.com/c/BackbenchCoder)
 
 
 ## License
